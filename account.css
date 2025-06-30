@@ -198,6 +198,3 @@ input[type="submit"]{
 #transfer:checked ~ .transaction{
   display: block;
 }
-
-
-
